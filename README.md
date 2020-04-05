@@ -3,5 +3,5 @@
 
 ## Hyperparameter Tuning
 
-[Exit Ticket](https://forms.gle/Z3pXtNGM7KaXhmK37)
+[Exit Ticket](https://forms.gle/Z3pXtNGM7KaXhmK37)<br>
 [Daily Challenge](https://github.com/learn-co-students/forest-and-gridsearch-daily-challenge)
